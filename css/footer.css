@@ -35,7 +35,7 @@ margin-bottom: 30px;
     grid-column: 1 / -1;
     font-size: 1.125rem;
     color: #8f8f8f;
-    margin: 0 auto;
+  
 }
 
 @media (max-width){
@@ -43,7 +43,7 @@ margin-bottom: 30px;
         grid-template-columns: 1fr;
         gap: 40px;
     }
-    .footer-contato{
+    .footer-contato li{
         font-size: 1.5rem;
     }
 }
