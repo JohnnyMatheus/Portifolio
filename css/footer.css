@@ -30,6 +30,12 @@ margin-bottom: 30px;
     color: #ffffff;
 
 }
+.footer-contato li{
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
 
 .footer-copy{
     grid-column: 1 / -1;
@@ -44,6 +50,6 @@ margin-bottom: 30px;
         gap: 40px;
     }
     .footer-contato li{
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
 }
